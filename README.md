@@ -1,0 +1,1 @@
+"This GitHub repository is the front-end code for a clone of the Amazon e-commerce platform, providing a user-friendly online shopping experience."
